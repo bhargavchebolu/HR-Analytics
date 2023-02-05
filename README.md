@@ -12,13 +12,8 @@ AtliQ Hardware is a company which supplies computer hardware and peripherals to 
 4. Parameters in the measure table are calculated using DAX and Power query.
 5. Building visualization from the gathered data.
 
-### Dashboard
-
-
-[HR-Analytics.pdf](https://github.com/bhargavchebolu/HR-Analytics/files/10611775/HR-Analytics.pdf)
-
-
 ### Data Model and Measure Table
+
 
 
 ![Data-model-measure-table](https://user-images.githubusercontent.com/65249485/216837124-5027d1cc-3e16-4950-84a6-e95f6bbb89d9.jpg)
