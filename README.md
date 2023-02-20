@@ -2,7 +2,7 @@
 
 ### Problem statement
 
-AtliQ Hardware is a company which supplies computer hardware and peripherals to many of their clients. They have a head office in Delhi in India. The HR generally consume Excel for HR related queries for 3 months (April 2022 to June 2022). In this project, a dashboard was build to kknow the insights on the presence of the employees. 
+AtliQ Hardware is a company which supplies computer hardware and peripherals to many of their clients. They have a head office in Delhi in India. The HR generally consume Excel for HR related queries for 3 months (April 2022 to June 2022). In this project, a dashboard was build to know the insights on the presence of the employees. 
 
 ### Steps for creating a dashboard
 
